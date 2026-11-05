@@ -153,10 +153,4 @@ customer-shopping-behavior-analysis/
 - Real-time dashboard deployment
 - Predictive sales analysis
 
----
-
-## Author
-
-**Chirag Arora**
-
-GitHub: https://github.com/CHIRAGGARORA
+--
